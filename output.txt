@@ -1,0 +1,111 @@
+
+The 0 number generated: 2733
+The 1 number generated: 9846
+The 2 number generated: 3265
+The 3 number generated: 4860
+The 4 number generated: 9226
+The 5 number generated: 7892
+The 6 number generated: 4374
+The 7 number generated: 5875
+The 8 number generated: 6745
+The 9 number generated: 3469
+The 10 number generated: 706
+The 11 number generated: 2600
+The 12 number generated: 2223
+The 13 number generated: 7769
+The 14 number generated: 2898
+The 15 number generated: 9894
+The 16 number generated: 538
+The 17 number generated: 6217
+The 18 number generated: 6922
+The 19 number generated: 6037
+The 20 number generated: 2164
+The 21 number generated: 5073
+The 22 number generated: 4852
+The 23 number generated: 7878
+The 24 number generated: 2047
+The 25 number generated: 1872
+The 26 number generated: 7600
+The 27 number generated: 2497
+The 28 number generated: 8292
+The 29 number generated: 756
+The 30 number generated: 798
+The 31 number generated: 660
+The 32 number generated: 3220
+The 33 number generated: 8616
+The 34 number generated: 7457
+The 35 number generated: 3338
+The 36 number generated: 2746
+The 37 number generated: 4736
+The 38 number generated: 8737
+The 39 number generated: 6688
+The 40 number generated: 715
+The 41 number generated: 2293
+The 42 number generated: 8344
+The 43 number generated: 1208
+The 44 number generated: 6173
+The 45 number generated: 8995
+The 46 number generated: 7222
+The 47 number generated: 6022
+The 48 number generated: 3623
+The 49 number generated: 3561
+The 50 number generated: 8949
+The 51 number generated: 1642
+The 52 number generated: 4985
+The 53 number generated: 4354
+The 54 number generated: 8623
+The 55 number generated: 7251
+The 56 number generated: 4188
+The 57 number generated: 2660
+The 58 number generated: 9782
+The 59 number generated: 2957
+The 60 number generated: 2252
+The 61 number generated: 4421
+The 62 number generated: 7109
+The 63 number generated: 1072
+The 64 number generated: 5252
+The 65 number generated: 7013
+The 66 number generated: 9397
+The 67 number generated: 3919
+The 68 number generated: 9360
+The 69 number generated: 1685
+The 70 number generated: 7099
+The 71 number generated: 2958
+The 72 number generated: 4470
+The 73 number generated: 8753
+The 74 number generated: 9798
+The 75 number generated: 5796
+The 76 number generated: 1473
+The 77 number generated: 7264
+The 78 number generated: 7366
+The 79 number generated: 8449
+The 80 number generated: 6002
+The 81 number generated: 3763
+The 82 number generated: 9009
+The 83 number generated: 2436
+The 84 number generated: 1635
+The 85 number generated: 974
+The 86 number generated: 4465
+The 87 number generated: 8394
+The 88 number generated: 2419
+The 89 number generated: 3456
+The 90 number generated: 6168
+The 91 number generated: 5820
+The 92 number generated: 6522
+The 93 number generated: 6243
+The 94 number generated: 7743
+The 95 number generated: 9124
+The 96 number generated: 6739
+The 97 number generated: 2788
+The 98 number generated: 7317
+The 99 number generated: 4306
+Thread[0] - slice [0:24]
+Thread[1] - slice [25:49]
+Thread[2] - slice [50:74]
+Thread[3] - slice [75:99]
+Time to find min / max 0.000175 seconds
+
+Minimum: 538
+
+Maximum: 9894
+
